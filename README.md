@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-## 👋 Welcome to My GitHub Profile!
-
 ![Header](img/banner_rifki.png)
 
 Hi! I'm **Rifki Maulana**, an **Informatics Engineering student** with a strong interest in **full-stack web development**, particularly in the **backend**. I'm passionate about building software solutions and learning modern web technologies.
